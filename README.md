@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> Hello World 👋 </h2>
+<h2 align="center"> Hi there 👋 </h2>
 
 <p align="center"> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> </p>
 
