@@ -41,7 +41,7 @@
 
 <p align="center"> 
 
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&column=9&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hydr4Online&theme=tokyonight&column=9&no-frame=false&no-bg=false&margin-w=4)
 
 </p> 
 
